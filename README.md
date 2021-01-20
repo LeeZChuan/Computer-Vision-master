@@ -48,3 +48,5 @@ Computer-Vision-master
 │
 └── README.md 
 ```
+
+## Code structure
