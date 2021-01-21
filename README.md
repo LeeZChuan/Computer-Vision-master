@@ -43,7 +43,7 @@ Computer-Vision-master
 │   ├── script # Code required for data processing
 │   └── js # Library files required for drawing
 │
-├── DT-Vis.html # test
+├── 
 │
 │
 └── README.md 
