@@ -87,11 +87,17 @@ VR使用与AR类似的计算机视觉技术。算法需要知道用户的位置�
 ---
 #### References 
 *[1] Michael Goesele, Noah Snavely, Brian Curless, Hugues Hoppe, and Steven M Seitz. Multi-view stereo for community photo collections. In Computer Vision, 2007. ICCV 2007. IEEE 11th International Conference on, pages 1–8. IEEE, 2007. 
+
 [2] Anders Heyden and Marc Pollefeys. Multiple view geometry. Emerging topics in computer vision, pages 45–107, 2005.
- [3] David H Hubel and Torsten N Wiesel. Receptive ﬁelds, binocular interaction and functional architecture in the cat’s visual cortex. The Journal of physiology, 160(1):106–154, 1962.
-  [4] Seymour A Papert. The summer vision project. 1966. 
-  [5] Ronald A Rensink, J Kevin O’Regan, and James J Clark. On the failure to detect changes in scenes across brief interruptions. Visual cognition, 7(1-3):127–145, 2000.
-   [6] Ashutosh Saxena, Justin Driemeyer, and Andrew Y Ng. Robotic grasping of novel objects using vision. The International Journal of Robotics Research, 27(2):157–173, 2008.
-    [7] Simon Thorpe, Denise Fize, and Catherine Marlot. Speed of processing in the human visual system. nature, 381(6582):520, 1996.*
+ 
+[3] David H Hubel and Torsten N Wiesel. Receptive ﬁelds, binocular interaction and functional architecture in the cat’s visual cortex. The Journal of physiology, 160(1):106–154, 1962.
+ 
+[4] Seymour A Papert. The summer vision project. 1966. 
+
+[5] Ronald A Rensink, J Kevin O’Regan, and James J Clark. On the failure to detect changes in scenes across brief interruptions. Visual cognition, 7(1-3):127–145, 2000.
+
+[6] Ashutosh Saxena, Justin Driemeyer, and Andrew Y Ng. Robotic grasping of novel objects using vision. The International Journal of Robotics Research, 27(2):157–173, 2008.
+
+[7] Simon Thorpe, Denise Fize, and Catherine Marlot. Speed of processing in the human visual system. nature, 381(6582):520, 1996.*
 
 ~~但行好事，莫问前程~~ 
