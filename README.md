@@ -16,6 +16,10 @@ Computer-Vision-master
 │ 
 ├── CS131_homework 
 │   ├── fall_2017
+│   ├── fall_2018
+│   │    |──  ....
+│   │    |──  ....
+│   ├── fall_2019
 │   │    |──  hw0_release
 │   │    |──  hw1_release
 │   │    |──  hw2_release
@@ -25,12 +29,6 @@ Computer-Vision-master
 │   │    |──  hw6_release
 │   │    |──  hw7_release
 │   │    |──  hw8_release
-│   │    |──  README and README_CN
-│   ├── fall_2018
-│   │    |──  ....
-│   │    |──  ....
-│   ├── fall_2019
-│   ├── 
 │
 ├── 
 │   ├── 
