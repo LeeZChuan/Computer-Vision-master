@@ -57,4 +57,10 @@ Computer-Vision-master
 └── README.md 
 ```
 
-## 
+## Other
+
+* 感兴趣的可以关注我的个人公众号，上面会不时分享相关技术与心得
+
+* 公众号名称：当生活遇上Coding
+
+![公众号](img/README/微信公众号.jpg)
